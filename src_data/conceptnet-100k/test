@@ -1,0 +1,1200 @@
+baseball	IsA	sport
+yo-yo	IsA	toy
+dog	CapableOf	bark
+pen	UsedFor	write
+something that be very good	HasProperty	good
+dog	IsA	mammal
+polo	IsA	game
+bottle	MadeOf	plastic
+book	MadeOf	paper
+sex	HasProperty	fun
+gold	IsA	metal
+sushi	IsA	food
+telephone	UsedFor	communicate
+sleep	HasSubevent	dream
+soccer	IsA	sport
+fish	AtLocation	water
+rose	IsA	flower
+cloud	AtLocation	sky
+linux	IsA	operate system
+child	AtLocation	school
+fly	IsA	insect
+computer	AtLocation	office
+apple	HasProperty	red
+clothe	AtLocation	closet
+book	AtLocation	shelf
+violin	IsA	string instrument
+bottle	MadeOf	glass
+coat	AtLocation	closet
+computer	AtLocation	library
+key	UsedFor	open lock
+cat	CapableOf	hunt mouse
+camera	UsedFor	take picture
+basketball player	HasProperty	tall
+bass	IsA	fish
+spoon	UsedFor	eat
+paper clip	AtLocation	desk
+keyboard	PartOf	computer
+paper	MadeOf	wood
+computer	UsedFor	work
+shark	AtLocation	any ocean
+chicken	CapableOf	cross road
+hammer	UsedFor	drive nail
+word	AtLocation	book
+keyboard	UsedFor	type
+animal	AtLocation	zoo
+water	UsedFor	drink
+window	MadeOf	glass
+net	UsedFor	catch fish
+dog	AtLocation	kennel
+dog	IsA	animal
+attend school	HasSubevent	learn
+librarian	AtLocation	library
+football	IsA	game
+water	AtLocation	lake
+car	CapableOf	go fast
+sky	HasProperty	blue
+football	IsA	sport
+love	IsA	emotion
+knife	CapableOf	spread butter
+music	HasProperty	soothe
+ball	HasProperty	round
+see	IsA	tool
+do housework	Causes	clean house
+dog	IsA	pet
+tennis	IsA	sport
+lion	IsA	animal
+statue of liberty	IsA	gift from france
+bird	HasA	feather
+teacher	CapableOf	school student
+pool	UsedFor	swim
+wing	UsedFor	fly
+shoe	AtLocation	closet
+sleep	HasSubevent	snore
+human	CapableOf	die only once
+have checkup	HasPrerequisite	go to doctor
+have haircut	HasPrerequisite	go to barber
+bus stop	UsedFor	wait for bus
+book	UsedFor	learn
+chair	AtLocation	office
+see	UsedFor	cut wood
+plant	HasA	leave
+book	ReceivesAction	read
+pilot	CapableOf	land plane
+person	NotCapableOf	fly
+doctor	HasProperty	smart
+see exhibit	HasPrerequisite	go to museum
+cup	CapableOf	hold liquid
+food	AtLocation	refrigerator
+car	MadeOf	metal
+trout	IsA	fish
+cheese	MadeOf	milk
+sunset	HasProperty	pretty
+see band	HasPrerequisite	buy ticket
+car	HasA	seat
+boy	CapableOf	date girl
+penguin	NotCapableOf	fly
+read	Causes	learn
+do housework	Causes	have clean house
+bed	UsedFor	have sex
+turtle	IsA	reptile
+match	UsedFor	start fire
+carpet	UsedFor	cover floor
+knife	AtLocation	kitchen
+eat	HasSubevent	chew
+sex	IsA	activity
+vegetable	IsA	food
+toe	PartOf	foot
+book	UsedFor	read
+pilot	CapableOf	fly airplane
+statue of liberty	IsA	in new york
+maintain muscle strength	HasPrerequisite	exercise
+guitar	HasA	six string
+magician	CapableOf	fool audience
+listen to music	HasPrerequisite	turn on radio
+doll	IsA	toy
+ocean	HasA	salt water
+commit perjury	HasPrerequisite	lie
+cloth	UsedFor	clean
+key	CapableOf	open door
+cloth	UsedFor	make clothe
+smoke	Causes	lung cancer
+buy something	HasPrerequisite	have money
+sleep	HasPrerequisite	close your eye
+pen	AtLocation	office
+rock	IsA	music
+pan	UsedFor	cook
+exercise	Causes	sweat
+student	CapableOf	study
+car	AtLocation	park lot
+bird	AtLocation	sky
+book	AtLocation	library
+venus	IsA	planet
+swiss cheese	HasA	hole
+fruit	HasProperty	good for you
+boat	UsedFor	travel on water
+seven day	AtLocation	week
+have physical exam	HasPrerequisite	go to doctor
+rain	IsA	water
+host	CapableOf	welcome guest
+key	CapableOf	open lock
+saddle	UsedFor	ride horse
+love	CausesDesire	kiss someone
+tickle	HasSubevent	laugh
+bookshelf	AtLocation	library
+carpet	AtLocation	house
+glass	AtLocation	cupboard
+shirt	AtLocation	closet
+apple	HasProperty	green
+peach	IsA	fruit
+book	UsedFor	study
+silver	IsA	metal
+finch	IsA	bird
+cat	CapableOf	drink water
+tree	HasA	leave
+horse	HasA	four leg
+seven continent	AtLocation	earth
+corn	IsA	vegetable
+murder	IsA	crime
+shingle	AtLocation	roof
+diminish your own hunger	HasPrerequisite	eat
+someone	AtLocation	hospital
+start family	HasSubevent	have sex
+fruit	UsedFor	eat
+have checkup	HasPrerequisite	make doctor appointment
+bicycle	AtLocation	garage
+money	AtLocation	bank
+cat	AtLocation	bed
+water	AtLocation	river
+golden retriever	IsA	dog
+blue	IsA	color
+chicken	CapableOf	lie egg
+bed	AtLocation	bedroom
+iron	IsA	metal
+java	IsA	program language
+ostrich	IsA	bird
+ant	IsA	insect
+house	HasA	window
+car	HasA	four wheel
+jellyfish	AtLocation	most ocean
+dog	CapableOf	guide blind person
+boat	AtLocation	water
+earth	HasA	one moon
+bicycle	HasA	two wheel
+go to sport event	HasPrerequisite	buy ticket
+dream	HasPrerequisite	sleep
+music	IsA	sound
+saxophone	IsA	musical instrument
+light match	Causes	fire
+dealer	CapableOf	deal card
+go to bed	HasPrerequisite	turn off light
+chicken	IsA	food
+voice	UsedFor	sing
+computer	UsedFor	play game
+earth	HasProperty	spherical
+elephant	AtLocation	zoo
+prisoner	AtLocation	jail
+key	UsedFor	open door
+apple	IsA	fruit
+airplane	AtLocation	sky
+child	Desires	play with toy
+go to get haircut	Causes	your hair will be short
+play	MotivatedByGoal	have some fun
+man	CapableOf	father child
+biology	IsA	science
+exercise	HasPrerequisite	energy
+dog	CapableOf	guard house
+tile	AtLocation	roof
+telephone	IsA	communication device
+plate	AtLocation	cupboard
+fruit	HasA	seed
+mastercard	IsA	credit card
+fall	Causes	injury
+stop your bicycle	HasSubevent	apply brake
+mushroom	IsA	fungus
+read newspaper	MotivatedByGoal	be inform
+clock	CapableOf	tell time
+run	HasSubevent	sweat
+cat	CapableOf	eat mouse
+pistol	IsA	gun
+glass	UsedFor	drink
+play sport	UsedFor	fun
+human	AtLocation	school
+literature	AtLocation	library
+glass	AtLocation	cabinet
+cat	AtLocation	lap
+jump rope	UsedFor	exercise
+play	Causes	fun
+poodle	IsA	dog
+dolphin	IsA	mammal
+nurse	AtLocation	hospital
+pineapple	IsA	fruit
+kill	Causes	death
+finger	PartOf	hand
+page	PartOf	book
+star	AtLocation	space
+bury cat	HasSubevent	dig hole
+goldfish	IsA	carp
+dice	HasA	six side
+light fire	HasSubevent	strike match
+wash your car	HasSubevent	get wet
+chimney	AtLocation	roof
+bicycle	AtLocation	street
+lawn mower	AtLocation	garage
+go on vacation	Causes	relaxation
+circle	HasProperty	round
+tablecloth	AtLocation	table
+pray	HasPrerequisite	believe in god
+sex	HasProperty	enjoyable
+pilot	CapableOf	land airplane
+galaxy	AtLocation	universe
+person	CapableOf	voice opinion
+cat	HasA	whisker
+find lose item	HasPrerequisite	search
+use computer	HasSubevent	type on keyboard
+cat	AtLocation	windowsill
+bride	AtLocation	wed
+water	HasProperty	essential to all life
+watch movie	HasPrerequisite	buy ticket
+needle	UsedFor	sew
+pilot	CapableOf	fly plane
+go to opera	HasPrerequisite	buy ticket
+doctor	CapableOf	help sick person
+bicycle storage area	UsedFor	store bicycle
+computer	IsA	electronic device
+star	AtLocation	sky
+bread	AtLocation	breadbox
+dresser	AtLocation	bedroom
+toilet	AtLocation	bathroom
+window	AtLocation	house
+tuba	IsA	musical instrument
+orchid	IsA	flower
+kettle	UsedFor	boil water
+water	HasProperty	liquid
+person	CapableOf	eat
+badminton	IsA	sport
+golf	IsA	sport
+canada	IsA	country
+home	RelatedTo	family
+sex	Causes	child
+read	Causes	learn something
+gardener	CapableOf	water plant
+neighbour	AtLocation	door
+parakeet	IsA	bird
+have haircut	Causes	have short hair
+go for drive	HasPrerequisite	get into car
+fish	NotCapableOf	live out of water
+dog	CapableOf	be pet
+pickle	AtLocation	jar
+opera singer	AtLocation	opera
+something	AtLocation	something else
+bottle	HasA	liquid
+tickle	Causes	laughter
+go to bed	HasPrerequisite	turn out light
+stop your car	HasPrerequisite	apply brake
+bird	AtLocation	roof
+plate	AtLocation	table
+saw	UsedFor	cut wood
+girl	CapableOf	wear dress
+pretend	HasPrerequisite	imagine
+table	UsedFor	put thing on
+bomb	CapableOf	destroy city
+yoyo	IsA	toy
+chicken	CapableOf	produce egg
+commit perjury	HasSubevent	lie
+key	AtLocation	pocket
+jellyfish	AtLocation	aquarium
+potato	AtLocation	kitchen
+sink	AtLocation	kitchen
+wallet	AtLocation	pocket
+money	AtLocation	wallet
+horn	IsA	musical instrument
+build	AtLocation	city
+snowman	MadeOf	snow
+tree	IsA	plant
+book	AtLocation	bookshelf
+smoke	Causes	cancer
+person	CapableOf	love
+weapon	UsedFor	kill
+tire	PartOf	car
+baseball	IsA	game
+horse	HasProperty	brown
+cat	HasA	four leg
+glue	HasProperty	sticky
+world	HasProperty	round
+make person laugh	HasPrerequisite	tell joke
+human	AtLocation	love
+gather energy for tomorrow	HasSubevent	sleep
+car	AtLocation	freeway
+read	HasSubevent	turn page
+guitar	UsedFor	make music
+frisbee	AtLocation	park
+read newspaper	HasPrerequisite	get newspaper
+wheel	HasProperty	round
+go for haircut	HasPrerequisite	go to barber
+breathe	HasSubevent	inhale
+comb	CapableOf	part hair
+eiffel tower	IsA	in paris
+person	CapableOf	catch cold
+stapler	AtLocation	your desk
+sex	HasProperty	pleasurable
+sushi	IsA	japanese food
+paper	HasProperty	crumple
+ping pong	IsA	game
+double edge razor	UsedFor	shave
+rest	HasPrerequisite	lie down
+person	CapableOf	cross street
+go to sleep	UsedFor	rest
+chess board	UsedFor	play chess
+park area	UsedFor	park car
+student	AtLocation	classroom
+human	AtLocation	country
+human	AtLocation	home
+potato	AtLocation	restaurant
+state	AtLocation	country
+stapler	AtLocation	desk
+book	PartOf	library
+gravity	IsA	force
+woodwind	IsA	instrument
+piano	IsA	instrument
+guitar	IsA	string instrument
+anger	IsA	emotion
+food	ReceivesAction	eat
+cat	CapableOf	catch mouse
+toilet paper	AtLocation	bathroom
+giraffe	AtLocation	zoo
+china	IsA	country
+day	HasProperty	bright
+banana	IsA	fruit
+pillow	AtLocation	bedroom
+horse	UsedFor	ride
+christianity	IsA	religion
+food	AtLocation	supermarket
+eiffel tower	AtLocation	paris
+food	AtLocation	table
+grass	AtLocation	park
+earth	NotIsA	perfect sphere
+milk	AtLocation	fridge
+plastic	IsA	material
+black hole	AtLocation	space
+criminal	AtLocation	jail
+car	AtLocation	car show
+play game with your friend	Causes	fun
+creek	AtLocation	forest
+bowl	AtLocation	cupboard
+contemplate	HasPrerequisite	think
+coffee cup	AtLocation	desk
+dog	NotCapableOf	fly
+paint	CapableOf	coat wall
+vegetarian	NotCapableOf	eat meat
+school	UsedFor	learn
+wine	UsedFor	drink
+peanut butter	AtLocation	jar
+seat	AtLocation	theatre
+pass your university exam	HasPrerequisite	study
+canvas	UsedFor	paint on
+book	HasA	knowledge
+climb	HasSubevent	fall
+listen to music	HasSubevent	dance
+be tire	CausesDesire	have rest
+apply for job	Causes	get job
+someone	AtLocation	museum
+letter	AtLocation	post office
+get up early	HasPrerequisite	set alarm clock
+maintain good health	Causes	long life
+go see play	HasPrerequisite	buy ticket
+horse	CapableOf	jump fence
+have rest	HasSubevent	close your eye
+chest of drawer	UsedFor	store clothe
+motherboard	AtLocation	computer
+7 continent	AtLocation	earth
+capital	AtLocation	country
+college	IsA	place
+child	CapableOf	share toy
+kiss	IsA	sign of affection
+fruit	HasProperty	healthy
+puppy	HasProperty	cute
+wrench	UsedFor	tighten bolt
+ball	CapableOf	bounce
+necklace	IsA	jewelry
+sex	HasProperty	good
+lion	IsA	carnivore
+dog	IsA	man best friend
+jump out of window	HasPrerequisite	open window
+tissue holder	UsedFor	hold tissue
+person	Desires	clothe
+pass course	HasPrerequisite	study
+water	AtLocation	pool
+snow	AtLocation	mountain
+lizard	AtLocation	dessert
+cpu	PartOf	computer
+whale	AtLocation	ocean
+elementary school	IsA	school
+soup	IsA	food
+student	AtLocation	school
+pencil	UsedFor	write
+dog	CapableOf	run
+plane	CapableOf	fly
+nose	PartOf	face
+chess	IsA	game
+rabbit	IsA	mammal
+cat	IsA	animal
+butterfly	IsA	insect
+go for drive	HasPrerequisite	get car
+hat	ReceivesAction	wear on head
+rifle	IsA	gun
+robin	IsA	bird
+woman	HasA	baby
+car	ReceivesAction	drive
+planet earth	HasProperty	round
+walk in rain	HasSubevent	get wet
+coffee	HasProperty	serve hot
+highway	IsA	road
+ball	IsA	toy
+hammer	UsedFor	pound nail
+telephone	AtLocation	your desk
+teacher	CapableOf	teach student
+awake	HasSubevent	yawn
+door	AtLocation	build
+cat	CapableOf	corner mouse
+dust bunny	AtLocation	bed
+butter	IsA	food
+student	AtLocation	university
+procreate	Causes	have child
+chair	AtLocation	desk
+bottle	IsA	container
+slide	AtLocation	park
+play game	HasSubevent	fun
+water and oil	NotCapableOf	mix
+guitar	HasA	6 string
+sleep	HasPrerequisite	close eye
+basketball	HasProperty	round
+rock	AtLocation	mountain
+go to zoo	Causes	see animal
+brake	CapableOf	slow car
+pass class	HasPrerequisite	study
+see old thing	HasPrerequisite	go to museum
+meet person	HasSubevent	shake their hand
+needle	HasProperty	sharp
+play game	HasSubevent	win
+ocean	UsedFor	sail
+passenger	CapableOf	board airplane
+get job	HasSubevent	interview
+car	CapableOf	crash
+bank	UsedFor	store money
+commit suicide	HasSubevent	die
+triangle	HasA	three side
+book	ReceivesAction	write
+miner	CapableOf	mine coal
+tool	AtLocation	garage
+enjoy film	HasSubevent	laugh
+dream	HasSubevent	sleep
+shovel	CapableOf	dig hole
+cookie	HasProperty	sweet
+urinate	MotivatedByGoal	your bladder be full
+go to laundromat	Causes	clean clothe
+play violin	Causes	music
+write instrument	UsedFor	write
+tack	HasProperty	sharp
+pub	UsedFor	have drink
+agree with someone	HasSubevent	nod
+sand	AtLocation	desert
+restaurant	IsA	place
+meat	UsedFor	eat
+go to movie	HasPrerequisite	buy ticket
+screwdriver	CapableOf	turn screw
+stay healthy	Causes	long life
+tongue	CapableOf	taste food
+pianist	CapableOf	play piano
+salad	IsA	food
+die	HasSubevent	stop breathe
+school bus	HasProperty	yellow
+gun	CapableOf	kill person
+mouse	AtLocation	garage
+lock	AtLocation	door
+crab	AtLocation	sand
+corner cupboard	AtLocation	kitchen
+water	AtLocation	waterfall
+bomb	CapableOf	explode
+cornea	PartOf	eye
+tomato	IsA	vegetable
+wake up	HasFirstSubevent	open your eye
+sleep	MotivatedByGoal	rest
+egg	IsA	food
+chair	UsedFor	sit
+leaf	AtLocation	tree
+bread	MadeOf	flour
+fry pan	UsedFor	cook
+arm	PartOf	body
+tree	CapableOf	grow
+carpenter	CapableOf	build house
+green	IsA	color
+bed	UsedFor	sleep
+blanket	UsedFor	sleep
+baby	CapableOf	cry
+lion	AtLocation	zoo
+monitor	PartOf	computer
+islam	IsA	religion
+human	CapableOf	eat
+usenet newsgroup	PartOf	usenet
+san francisco	IsA	city
+have sex	HasSubevent	have orgasm
+boat	IsA	on water
+man	CapableOf	date woman
+sport	HasProperty	fun
+computer	UsedFor	communication
+dog	HasA	four leg
+farmer	CapableOf	farm land
+match	CapableOf	light candle
+air	IsA	gas
+snore	HasPrerequisite	sleep
+drive	HasPrerequisite	get in car
+brain	AtLocation	head
+pen	HasA	ink
+visit other country	HasPrerequisite	travel
+dentist	IsA	doctor
+hockey	IsA	sport
+empty your bladder	HasPrerequisite	go to bathroom
+thief	CapableOf	case house
+apple	ReceivesAction	eat
+neighbor	AtLocation	door
+passenger	CapableOf	board plane
+hanger	AtLocation	closet
+read magazine	HasSubevent	turn page
+babysitter	CapableOf	mind baby
+boy	CapableOf	kiss girl
+skate	HasSubevent	fall down
+french	IsA	language
+bar stool	UsedFor	sit on
+play tennis	HasSubevent	hit ball
+see your favorite show	Causes	laugh
+go to play	Causes	be entertain
+program	AtLocation	television
+sing	Causes	sore throat
+teacher	AtLocation	classroom
+person	CapableOf	wind clock
+thief	CapableOf	case joint
+have fun	HasSubevent	smile
+book	AtLocation	your desk
+love	CausesDesire	propose to woman
+rest	HasSubevent	sleep
+commercial	AtLocation	television
+reproduce	HasSubevent	have sex
+horse	CapableOf	carry person
+get up early	HasPrerequisite	set your alarm clock
+cook	CapableOf	prepare meal
+person	CapableOf	taste food
+internet	UsedFor	research
+cold	CausesDesire	light fire
+fan	UsedFor	move air
+chair	HasProperty	comfortable
+author	CapableOf	write book
+artist	CapableOf	paint portrait
+highway	UsedFor	travel
+person	CapableOf	thank another person
+play game	UsedFor	have fun
+bathe	HasSubevent	use soap
+bathtub	UsedFor	bathe
+chalk	UsedFor	write on blackboard
+someone	AtLocation	post office
+floor	UsedFor	walk on
+weasel	AtLocation	zoo
+lizard	AtLocation	bush
+mouse	AtLocation	laboratory
+man	Desires	woman
+take shower	HasSubevent	wash your hair
+death	PartOf	life
+drum	IsA	percussion instrument
+scissor	UsedFor	cut
+grass	AtLocation	lawn
+soap	UsedFor	clean
+food	UsedFor	eat
+cake	HasProperty	sweet
+viola	IsA	instrument
+wheel	PartOf	car
+person	CapableOf	sleep
+human	IsA	mammal
+rice	IsA	food
+eraser	MadeOf	rubber
+chopstick	UsedFor	eat
+knife	UsedFor	cut
+saturn	IsA	planet
+mar	IsA	planet
+mouse	IsA	mammal
+galaxy	PartOf	universe
+exercise	HasProperty	good for you
+jack	IsA	child game
+jack	IsA	game
+build	HasProperty	big
+your tooth	AtLocation	your mouth
+ride horse	HasSubevent	fall off
+gamble	HasProperty	addictive
+food	AtLocation	oven
+cut your hair	HasPrerequisite	go to barber
+person	CapableOf	captain ship
+computer	AtLocation	your house
+refrigerator	UsedFor	keep food cold
+lizard	HasProperty	cold blood
+disco	UsedFor	dance
+bathe	HasPrerequisite	take your clothe off
+reproduce	HasPrerequisite	have sex
+seat	AtLocation	theater
+car	AtLocation	city
+fly in airplane	HasPrerequisite	buy ticket
+swim	HasPrerequisite	get into water
+cross street	Causes	get to other side
+colorado	IsA	state
+california	IsA	state
+dog	HasA	fur
+get something	HasPrerequisite	ask for it
+flask	UsedFor	hold liquid
+get pay	HasPrerequisite	work
+quill	UsedFor	write
+food	AtLocation	fridge
+marijuana	IsA	drug
+computer	AtLocation	school
+fish	AtLocation	ocean
+wristwatch	UsedFor	tell time
+book	AtLocation	classroom
+write	HasSubevent	think
+go for swim	HasSubevent	get wet
+pepper and salt	UsedFor	season food
+person	CapableOf	water plant
+pretend	HasPrerequisite	use your imagination
+cereal bowl	UsedFor	eat cereal
+human	HasA	five finger on each hand
+compete	HasSubevent	win
+box	IsA	container
+coke	IsA	soda
+chew your food	Causes	good digestion
+brain	IsA	head
+floor	AtLocation	table
+library	HasA	book
+book	HasA	story
+can food	AtLocation	pantry
+play guitar	HasSubevent	sing
+cat	HasA	fur
+lawyer	CapableOf	object in court
+something	AtLocation	school
+telephone	AtLocation	office
+hummingbird	CapableOf	hover
+cat	IsA	curious animal
+drink	HasPrerequisite	open your mouth
+star trek	IsA	popular television show
+read	MotivatedByGoal	learn
+radio	CapableOf	play music
+literature	UsedFor	read
+attend lecture	HasSubevent	take note
+read news	HasPrerequisite	buy newspaper
+stage	UsedFor	play
+fur	UsedFor	keep animal warm
+answer question	HasPrerequisite	think
+fork	AtLocation	table
+baseball field	UsedFor	play baseball
+winter	HasProperty	cold
+drink alcohol	HasSubevent	get drunk
+dream	HasPrerequisite	fall asleep
+finger	CapableOf	push button
+person	PartOf	society
+compete	MotivatedByGoal	win
+full bladder	CausesDesire	urinate
+human	CapableOf	die
+play poker	HasSubevent	bluff
+pillow case	UsedFor	cover pillow
+person	CapableOf	believe in god
+star	AtLocation	night sky
+bird	AtLocation	air
+pantry	AtLocation	kitchen
+towel rack	AtLocation	bathroom
+open gift	Causes	surprise
+telephone	UsedFor	communication
+monkey	Desires	eat banana
+violin	UsedFor	play music
+computer	CapableOf	compute
+salt	UsedFor	melt ice
+drawer	AtLocation	desk
+banana	HasProperty	yellow
+physic	IsA	science
+wine	IsA	beverage
+tiger	AtLocation	zoo
+cucumber	IsA	vegetable
+person	CapableOf	think
+eye	UsedFor	see
+red	IsA	color
+study	HasSubevent	read
+denim	IsA	fabric
+metal	IsA	music
+france	IsA	country
+frog	IsA	amphibian
+novel	IsA	book
+brazil	IsA	country
+information	AtLocation	internet
+have sex	Causes	baby
+work	NotHasProperty	fun
+bicycle	UsedFor	transportation
+shoe	UsedFor	protect foot
+dog	NotCapableOf	talk
+have rest	MotivatedByGoal	you be very tire
+most pizza	HasA	cheese on it
+paper	UsedFor	make paper airplane
+sit down	HasPrerequisite	bend your knee
+atheist	CapableOf	doubt existence of god
+person	Desires	dance
+something	AtLocation	library
+detective	CapableOf	piece together clue
+play sport	HasSubevent	run
+horse	ReceivesAction	ride
+alcohol	CapableOf	cloud judgement
+something	AtLocation	store
+some car	HasProperty	expensive
+pony	IsA	horse
+house	HasA	door
+teacher	CapableOf	help student
+your neighbor	AtLocation	door
+gun	UsedFor	kill someone
+wine	HasA	alcohol
+poker	IsA	card game
+remember phone number	HasPrerequisite	repeat it to yourself
+food	AtLocation	kitchen
+visit other country	HasPrerequisite	get passport
+moon	AtLocation	space
+flower	AtLocation	park
+take bus	HasPrerequisite	go to bus stop
+frisbee	HasProperty	round
+alcohol	CapableOf	cloud your judgement
+rose	HasA	thorn
+human	AtLocation	park
+jewish person	AtLocation	synagogue
+kitchen	UsedFor	cook food
+human	AtLocation	workplace
+mirror	AtLocation	bedroom
+oxygen	IsA	gas
+train	CapableOf	arrive late
+woman	CapableOf	chair committee
+girl	AtLocation	school
+cheese	IsA	food
+someone	AtLocation	zoo
+submarine	AtLocation	water
+move car	Causes	accident
+blacksmith	CapableOf	shoe horse
+duck	HasA	bill
+hamburger	AtLocation	fast-food restaurant
+get drunk	HasPrerequisite	drink alcohol
+person	CapableOf	laugh at joke
+carpet pad	AtLocation	carpet
+condominium	UsedFor	live in
+sate your hunger	HasPrerequisite	eat
+shoe	ReceivesAction	wear on foot
+cross street	HasPrerequisite	look both way
+someone	AtLocation	lake
+bicycle	IsA	two wheel vehicle
+shirt	IsA	clothe
+something	AtLocation	beach
+play piano	HasPrerequisite	take lesson
+fire	CapableOf	burn thing
+stopwatch	CapableOf	time race
+attend classical concert	HasPrerequisite	buy ticket
+usher	CapableOf	seat guest
+cup	UsedFor	drink from
+person	CapableOf	talk to each other
+walk in rain	Causes	you get wet
+bomb	CapableOf	destroy build
+fan	UsedFor	circulate air
+parent	CapableOf	name child
+raisin	IsA	dry grape
+bird	AtLocation	forest
+traveller	AtLocation	airport
+something	AtLocation	tree
+something	AtLocation	mall
+go to school	HasSubevent	learn
+man	HasA	penis
+bomb	UsedFor	blow thing up
+mechanic	CapableOf	service car
+someone	AtLocation	theater
+jump out of window	HasSubevent	die
+cake	AtLocation	oven
+read magazine	HasPrerequisite	buy magazine
+mother	CapableOf	care for her child
+play sport	HasSubevent	have fun
+tv	IsA	abbreviation for television
+pipe	UsedFor	smoke tobacco
+water	CapableOf	reflect image
+go to bed	Causes	sleep
+tickle	Causes	laugh
+tool	UsedFor	fix thing
+study	HasSubevent	read book
+saxophone	IsA	instrument
+bomb	UsedFor	kill person
+plant	HasProperty	green
+skyscraper	IsA	build
+soap	UsedFor	wash your hand
+person	CapableOf	thank god
+fruit	HasProperty	sweet
+person	CapableOf	sail boat
+person	CapableOf	pay bill
+master bedroom	UsedFor	sleep
+have asthma attack	HasPrerequisite	have asthma
+ticket office	UsedFor	buy ticket
+bookstore	UsedFor	buy book
+diner	UsedFor	eat
+sailor	CapableOf	sail ship
+have food	UsedFor	eat
+student	CapableOf	fail test
+tooth	UsedFor	chew food
+classroom	UsedFor	teach
+propose to woman	Causes	marriage
+ruler	CapableOf	measure distance
+airplane	UsedFor	travel
+dresser	UsedFor	store clothe
+feather	UsedFor	tickle someone
+window	UsedFor	look outside
+submarine	IsA	ship
+bagpipe	UsedFor	play music
+listen to radio	HasSubevent	hear music
+find lose item	HasPrerequisite	look for it
+pulpit	UsedFor	preach
+live	HasSubevent	breathe
+dog	IsA	loyal friend
+fish	AtLocation	river
+salt	AtLocation	ocean
+card catalog	AtLocation	library
+cd	AtLocation	cd player
+planet	AtLocation	space
+clarinet	AtLocation	orchestra
+wine list	AtLocation	restaurant
+mouthwash	AtLocation	bathroom
+rosebush	AtLocation	backyard
+elephant	AtLocation	circus
+play game	HasSubevent	have fun
+sheet	UsedFor	cover bed
+computer	CapableOf	process information
+potato	IsA	vegetable
+bread	UsedFor	eat
+music stand	UsedFor	hold music
+razor	UsedFor	shave
+student	AtLocation	at school
+ball	UsedFor	throw
+dinner	IsA	meal
+notebook	AtLocation	desk
+ear	UsedFor	hear
+chocolate	IsA	food
+son	PartOf	family
+gun	IsA	weapon
+lettuce	IsA	vegetable
+car	IsA	vehicle
+fork	UsedFor	eat
+human	IsA	animal
+fall	IsA	season
+night	HasProperty	dark
+steel	IsA	metal
+sword	HasProperty	sharp
+chocolate	IsA	candy
+leaf	PartOf	tree
+crappie	IsA	fish
+salamander	IsA	amphibian
+table tennis	IsA	sport
+pelican	IsA	bird
+pencil	UsedFor	write something on paper
+god	PartOf	religion
+library	UsedFor	do research
+paris	IsA	city
+music	IsA	form of art
+most person	HasProperty	right hand
+most person	HasProperty	right-handed
+car	HasA	headlight
+girl	IsA	hold puppy
+bicycle	IsA	form of transportation
+nose	AtLocation	face
+there	IsA	food at grocery store
+propose to woman	MotivatedByGoal	you love her
+have sex	HasSubevent	sweat
+house	HasA	room
+pig	NotCapableOf	fly
+clothe	AtLocation	drawer
+sushi	IsA	raw fish
+sock	AtLocation	drawer
+student	CapableOf	master subject
+eat breakfast	HasPrerequisite	wake up
+apple	HasProperty	good for you
+soap	UsedFor	wash yourself
+corn	IsA	food
+glass	HasProperty	half full
+high rise	IsA	build
+go to party	UsedFor	fun
+program	HasPrerequisite	learn program language
+music	CreatedBy	composer
+sock	AtLocation	sock drawer
+policeman	CapableOf	direct traffic
+paper	HasProperty	recyclable
+chicken	IsA	meat
+sofa	IsA	sit on
+see art	HasPrerequisite	go to museum
+go for haircut	HasPrerequisite	find barber
+knife	CapableOf	spread peanut butter
+classroom	IsA	in school
+floor	AtLocation	carpet
+clerk	CapableOf	stock shelve
+bunsen burner	AtLocation	chemistry lab
+horse	AtLocation	race track
+rope	AtLocation	boat
+police officer	CapableOf	direct traffic
+dog	HasProperty	very loyal
+read	HasSubevent	learn
+bridge	UsedFor	cross river
+cat	HasA	claw
+puck	AtLocation	hockey game
+bill	AtLocation	mail box
+grocer	CapableOf	stock shelve
+person	CapableOf	shoulder burden
+watch even news	HasPrerequisite	turn on tv
+have epileptic fit	HasSubevent	fall down
+bell	AtLocation	church
+reproduce	HasPrerequisite	find mate
+book	AtLocation	backpack
+movie	AtLocation	theater
+have nervous breakdown	HasSubevent	cry
+get some money from someone	HasPrerequisite	ask
+deaf person	NotCapableOf	hear
+floor	UsedFor	walk
+woman	CapableOf	mother child
+go for swim	HasSubevent	drown
+actor	AtLocation	movie
+match	CapableOf	light fire
+empty your bladder	HasPrerequisite	go to toilet
+tank	ReceivesAction	use in war
+car	CapableOf	slow down
+nurse	CapableOf	care for patient
+detective	CapableOf	tail suspect
+contraceptive	UsedFor	prevent pregnancy
+grain of sand	HasProperty	very small
+wait in line	Causes	boredom
+visitor	CapableOf	ring doorbell
+knife	AtLocation	drawer
+gideon bible	AtLocation	motel
+towel bar	UsedFor	hang towel
+some plastic	ReceivesAction	recycle
+passenger	CapableOf	board train
+sew	HasPrerequisite	thread needle
+think	HasPrerequisite	brain
+clothe	AtLocation	store
+typewriter	UsedFor	type letter
+rack	AtLocation	oven
+party	HasProperty	fun
+fire engine	HasProperty	red
+dog	IsA	canine
+watch television show	HasPrerequisite	turn on tv
+go to hairdresser	HasSubevent	get haircut
+something	AtLocation	sea
+something	AtLocation	refrigerator
+soda	IsA	drink
+spanish restaurant	UsedFor	eat spanish food
+pocket knife	IsA	useful tool
+enjoy film	HasSubevent	eat popcorn
+ski	HasPrerequisite	snow
+two person	HasA	sex
+chat with friend	Causes	laughter
+vintner	CapableOf	bottle wine
+love	IsA	feel
+someone	AtLocation	shop
+dog	CapableOf	guard your house
+watch tv	HasSubevent	fall asleep
+plane	CapableOf	crash
+canada	HasProperty	north of unite state
+relax	Causes	sleep
+banjo	IsA	string instrument
+guitare	IsA	instrument
+diminish your own hunger	HasSubevent	eat
+express how funny something	HasSubevent	be laugh
+chop firewood	HasPrerequisite	axe
+play frisbee	HasSubevent	catch frisbee
+stop your car	HasPrerequisite	press brake
+bathe	Causes	be clean
+stone	IsA	another word for rock
+baseball	IsA	american pastime
+beanie	IsA	hat
+cowboy boot	MadeOf	leather
+rubber duck	HasProperty	yellow
+baby animal	HasProperty	cute
+fedora	IsA	hat
+play ball	HasSubevent	catch ball
+shotgun	IsA	gun
+gather energy for tomorrow	HasPrerequisite	sleep
+have examination	HasPrerequisite	see doctor
+plane	CapableOf	arrive at airport
+get up early	HasPrerequisite	go to bed early
+make friend	HasPrerequisite	smile
+person	Desires	laugh
+new york	IsA	state
+clarinet	IsA	instrument
+reproduce	Causes	child
+bean	IsA	vegetable
+play basketball	HasSubevent	dribble
+camper	CapableOf	sleep in tent
+hear news	HasPrerequisite	turn on tv
+hill	UsedFor	climb
+comb	UsedFor	style hair
+turtle	CapableOf	live long time
+tie your shoelace	UsedFor	keep your shoe on
+paint house	HasPrerequisite	ladder
+woman	CapableOf	wear dress
+president	CapableOf	govern country
+piggy bank	UsedFor	save money
+think	UsedFor	solve problem
+watch television	HasPrerequisite	turn television on
+sofa bed	UsedFor	sleep on
+buy food	HasPrerequisite	go to store
+towel rack	UsedFor	hold towel
+brownstone	UsedFor	live in
+lawyer	CapableOf	settle lawsuit
+fork	UsedFor	eat food
+egg	AtLocation	supermarket
+sun	AtLocation	center of solar system
+tenor	AtLocation	opera
+audience	AtLocation	theatre
+human	AtLocation	church
+staple	AtLocation	stapler
+key	AtLocation	purse
+trash	AtLocation	dumpster
+city	AtLocation	county
+shop basket	AtLocation	supermarket
+science	AtLocation	university
+closet	AtLocation	bedroom
+foot	AtLocation	shoe
+cavity	AtLocation	tooth
+statue	AtLocation	museum
+person	Desires	feel important
+book	CreatedBy	writer
+xylophone	IsA	percussion instrument
+broom	UsedFor	sweep
+knife	UsedFor	stab
+english	IsA	language
+lemon	HasProperty	sour
+trigger	PartOf	gun
+baseball	UsedFor	play baseball
+table	AtLocation	kitchen
+oil	HasProperty	slippery
+cup	UsedFor	drink
+tree	AtLocation	forest
+pencil	MadeOf	wood
+london	IsA	city
+swim	IsA	sport
+child	CapableOf	play
+door	PartOf	house
+pot	UsedFor	cook
+rock	HasProperty	heavy
+palm	PartOf	hand
+coffee	MadeOf	coffee bean
+paper	HasProperty	white
+fish	IsA	animal
+jean	MadeOf	denim
+fruit	HasProperty	edible
+robot	IsA	machine
+pilot	CapableOf	fly helicopter
+backgammon	IsA	game
+jupiter	IsA	planet
+lake	IsA	body of water
+spider	IsA	arachnid
+whale	IsA	mammal
+beaver	IsA	mammal
+pheasant	IsA	bird
+crow	IsA	bird
+hawk	IsA	bird
+goose	IsA	bird
+perl	IsA	program language
+c	IsA	program language
+bird	CapableOf	sing
+sex	Causes	orgasm
+fish	AtLocation	aquarium
+dog	Desires	chew on bone
+dog	NotCapableOf	sweat
+cat	IsA	carnivore
+buy present for others	HasPrerequisite	have money
+twenty four hour	AtLocation	day
+phone	AtLocation	your desk
+atheist	NotCapableOf	believe in god
+dog	UsedFor	companionship
+college	AtLocation	city
+feather	AtLocation	bird
+shovel	UsedFor	dig hole
+soap	UsedFor	clean something
+apple	HasProperty	good to eat
+eat breakfast in bed	HasSubevent	watch tv
+commit to memory	HasSubevent	repeat
+learn	HasPrerequisite	study
+unix	IsA	operate system
+unix	IsA	system
+write term paper	HasPrerequisite	research
+sailboat	ReceivesAction	propel by wind
+kitten	DefinedAs	baby cat
+pray	HasSubevent	kneel down
+shop	HasPrerequisite	have money
+kill	HasProperty	wrong
+bottle	UsedFor	store liquid
+sleep	HasPrerequisite	get in bed
+music	HasProperty	relax
+men and woman	HasProperty	different
+tongue	AtLocation	your mouth
+plate	AtLocation	kitchen
+become inebriate	HasPrerequisite	drink alcohol
+sail	HasProperty	fun
+boy	IsA	young man
+beer	IsA	alcoholic beverage
+study	HasPrerequisite	concentration
+city	IsA	place
+fart	Causes	bad smell
+smoke cigarette	Causes	lung cancer
+compete against someone	HasPrerequisite	enter competition
+roof tile	AtLocation	roof
+toothbrush	UsedFor	clean your tooth
+go to performance	HasPrerequisite	buy ticket
+create idea	HasPrerequisite	think
+surprise someone	HasPrerequisite	hide
+meet interest person	HasSubevent	talk to them
+take phone call	HasPrerequisite	pick up phone
+reach tentative agreement	HasPrerequisite	compromise
+lie	HasSubevent	you feel guilty
+key chain	UsedFor	keep key together
+foot	AtLocation	desk
+pea	IsA	vegetable
+compete	HasSubevent	you lose
+submarine	CapableOf	travel under water
+watch even news	HasPrerequisite	turn on television
+play	HasSubevent	have fun
+have bath	HasPrerequisite	fill tub with water
+apple	AtLocation	apple tree
+slave	IsA	person
+drive	HasSubevent	listen to radio
+restaurant	UsedFor	eat out
+chess board	HasA	64 square
+school	AtLocation	city
+chat with friend	HasSubevent	laugh
+have bath	HasSubevent	get wet
+baggage	AtLocation	airport
+paint picture	HasSubevent	look at model
+relax	HasSubevent	sleep
+cookie	AtLocation	jar
+baby	CapableOf	cry loud
+strike match	Causes	fire
+banker	CapableOf	lend money
+bury cat	HasPrerequisite	dig hole
+earn live	HasPrerequisite	work
+twenty-four hour	AtLocation	day
+person	CapableOf	board plane
+furnace	AtLocation	basement
+play sport	UsedFor	competition
+stair	UsedFor	climb
+park lot	UsedFor	park car
+terrorist	CapableOf	arm bomb
+wood	UsedFor	fence in property
+pool	UsedFor	get out of heat
+play game	HasPrerequisite	learn rule
+duck	HasA	web foot
+play basketball	HasSubevent	score point
+ball	CapableOf	roll down hill
+stethoscope	AtLocation	doctor
+make patchwork quilt	HasSubevent	sew
+leave	AtLocation	tree
+plant	HasA	green leave
+pay bill	HasPrerequisite	have money
+skin	UsedFor	cover body
+spanish	IsA	language
