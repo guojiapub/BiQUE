@@ -1,6 +1,6 @@
 BiQUE: Biquaternionic Embeddings of Knowledge Graphs
 ===
-This is the official implementation for "BiQUE: Biquaternionic Embeddings of Knowledge Graphs" (EMNLP 2021, Main Conference).
+This is the official implementation for "[BiQUE: Biquaternionic Embeddings of Knowledge Graphs](https://arxiv.org/abs/2109.14401)" (EMNLP 2021, Main Conference).
 
 ## Dependencies
 - Python 3.6+
