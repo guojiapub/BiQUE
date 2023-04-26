@@ -33,7 +33,7 @@ The folder structure is:
 
 
 ### 1. Preprocess the Datasets
-To preprocess the datasets, run the following commands.
+To preprocess the datasets, run the following commands:
 
 ```shell script
 cd codes
@@ -44,7 +44,7 @@ Now, the processed datasets are in the `data` directory.
 
 
 ### 2. Reproduce the Results 
-To reproduce the reported results of BiQUE on WN18RR, FB15k237, YAGO3-10, CN-100K and ATOMIC, please run the following commands.
+To reproduce the reported results of BiQUE on WN18RR, FB15k237, YAGO3-10, CN-100K and ATOMIC, please run the following commands:
 
 ```shell script
 cd codes
