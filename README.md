@@ -77,6 +77,5 @@ If you find our work helpful for your research, please cite our paper:
     booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
     year = "2021",
     url = "https://aclanthology.org/2021.emnlp-main.657",
-    pages = "8338--8351"
 }
 ```
