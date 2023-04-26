@@ -2,6 +2,7 @@ BiQUE: Biquaternionic Embeddings of Knowledge Graphs
 ===
 This is the official implementation for "[BiQUE: Biquaternionic Embeddings of Knowledge Graphs](https://arxiv.org/abs/2109.14401)" (EMNLP 2021, Main Conference).
 
+## Citation
 If you find our work helpful for your research, please cite our paper:
 
 ```bibtex
