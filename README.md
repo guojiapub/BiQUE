@@ -67,3 +67,16 @@ python learn.py --dataset Atomic --model BiQUE --rank 128 --optimizer Adagrad --
 
 ## Acknowledgement
 We refer to the codes of [kbc](https://github.com/facebookresearch/kbc). Thanks for their contributions.
+
+If you find our work helpful for your research, please cite our paper:
+
+```bibtex
+@inproceedings{guo-kok-2021-bique,
+    title = "{BiQUE}: {B}iquaternionic Embeddings of Knowledge Graphs",
+    author = "Guo, Jia and Kok, Stanley",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    year = "2021",
+    url = "https://aclanthology.org/2021.emnlp-main.657",
+    pages = "8338--8351"
+}
+```
